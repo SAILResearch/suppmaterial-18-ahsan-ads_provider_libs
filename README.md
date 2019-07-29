@@ -1,5 +1,4 @@
-This project contains the Understand Projects of the studied ad libraries at the start and ad the end of our study period.
-replication package of our paper **"A Longitudinal Study of Popular Ad Libraries in the Google Play Store"**
+This project contains the Understand Projects of the studied ad libraries (at the start and ad the end of our study period) as a replication package of our paper _**"A Longitudinal Study of Popular Ad Libraries in the Google Play Store"**_
 
 # A Longitudinal Study of Popular Ad Libraries in the Google Play Store
 In-app advertisements have become an integral part of the revenue model of mobile apps. 
