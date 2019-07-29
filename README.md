@@ -35,3 +35,6 @@ For example, our reference architecture provides a new ad library developer with
 6. Vungle
 7. AdColony
 8. Flurry
+
+# How to use the understand projects (.udb)?
+To use the understand projects, one needs to install the SciTools from the following link: https://scitools.com/
