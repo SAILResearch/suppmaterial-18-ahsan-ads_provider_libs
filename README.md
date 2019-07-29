@@ -39,4 +39,4 @@ For example, our reference architecture provides a new ad library developer with
 # How to use the understand projects (.udb)?
 **Step 1:** To use the understand projects, install the SciTools from the following link: https://scitools.com/ </br>
 **Step 2:** Open an Understand Project of the studied ad library (File -> Open -> Project)</br>
-**Step 3:** To visualize the relationship between packages and classes, right click on any of the projects and select the option: Butterfly-Dependency Graph (Right click on any package -> Graphical Views -> Butterfly-Dependency Graph)
+**Step 3:** To visualize the relationship between packages and classes, right click on any of the package and select the option: Butterfly-Dependency Graph (Right click on any package -> Graphical Views -> Butterfly-Dependency Graph)
