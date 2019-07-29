@@ -25,3 +25,13 @@ Finally, we derive a reference architecture from the studied eight ad libraries,
 Our study is important for ad library developers as it provides the first in-depth look into how the important mobile app market segment of ad libraries has evolved. 
 Our findings and the reference architecture are valuable for ad library developers who wish to learn about how other developers built and evolved their successful ad libraries.
 For example, our reference architecture provides a new ad library developer with a foundation for understanding the interactions between the most important components of an ad library. 
+
+# List of the studied ad libraries
+1. Google AdMob
+2. Facebook Audience Network
+3. MoPub
+4. Amazon Mobile Ad
+5. Unity Ads
+6. Vungle
+7. AdColony
+8. Flurry
